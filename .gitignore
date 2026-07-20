@@ -1,0 +1,9 @@
+# Dados grandes
+dados/
+
+dl-env/
+
+# VSCode
+.vscode/
+
+*.keras
